@@ -1,0 +1,23 @@
+body {
+ background-color: rgb(212, 212, 212);
+}
+
+p {
+    margin-bottom: 0.5em;
+}
+
+h5 {
+    margin-left: 1em;
+}
+
+img {
+    height: 9em;
+}
+
+.container {
+    padding-top: 5em;
+}
+
+.card {
+    margin-bottom: 2em;
+}
